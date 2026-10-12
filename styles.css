@@ -1,0 +1,19 @@
+h2{
+    color: teal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+#check{
+    background-color: lightgoldenrodyellow;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+#output{
+    background-color: lightgreen;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
